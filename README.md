@@ -12,7 +12,6 @@ Things you will Learn 🤯
 5. Learn Kubernetes and Create EKS cluster and Nodegroups
 6. Create Kubernetes Deployments and Services using Python!
 
-
 Prerequisites!
 
 (Things to have before starting the projects)
